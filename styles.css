@@ -263,7 +263,7 @@ nav .fa {
   padding: 30px 0;
   padding-bottom: 80px;
   color: white;
-  background: linear-gradient(#075e54);
+  background-color: #075e54;
   /* background-color: aquamarine; */
 }
 
@@ -294,7 +294,6 @@ nav .fa {
     text-align: center;
   }
 }
-
 
 .services {
   padding: 0px 50px;
